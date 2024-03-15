@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[<img src="https://raw.githubusercontent.com/epoll31/epoll31/main/assets/title.gif" alt="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)" title="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)">](https://epoll31.github.io)
 
 <!--
 **epoll31/epoll31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
