@@ -1,9 +1,12 @@
 
 [<img src="https://raw.githubusercontent.com/epoll31/epoll31/main/assets/title.gif" alt="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)" title="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)">](https://epoll31.github.io)
 <!--![visitors](https://vbr.nathanchung.dev/badge?page_id=epoll31.epoll31&color=00cf00)-->
-![visitors](https://vbr.nathanchung.dev/badge?page_id=epoll31.epoll31&lcolor=fff&color=333&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
 
-## 👨‍💻 About Me
+<h2 align="top">
+👨‍💻 About Me
+<img align="right" alt="Visitors" src="https://vbr.nathanchung.dev/badge?page_id=epoll31.epoll31&lcolor=fff&color=333&style=for-the-badge&logo=Github&logoColor=181717&hit=false"/>
+</h2>
+
 * 💻 Software Developer and Designer
 * 🎓 Graduated from Worcester Polytechnic Institute with a B.S. in Computer Science in 2023
 * 🖥️ I love Front-End, Full-Stack, Back-End, and Game Development
