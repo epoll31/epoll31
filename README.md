@@ -32,11 +32,11 @@
 </div>
 <br>
 
-<div align="center">
+<!-- <div align="center"> -->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-</div>
+<!-- </div> -->
 
 ## 💼 My Projects
 
