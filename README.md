@@ -9,8 +9,12 @@
 * 🖥️ I love Front-End, Full-Stack, Back-End, and Game Development
 *  Right now I am using an M1 macOS laptop
 * 🪟 But, I am very familiar with Windows
+<!-- 
+## 💾 Tech Stack
+### Languages/Frameworks
+### Environments
+### Operating Systems -->
 
-<!-- tech stack! -->
 
 ## 📈 My Stats
 <div align="center">
@@ -25,6 +29,13 @@
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=epoll31&theme=gruvbox"/>
+</div>
+<br>
+
+<div align="center">
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 </div>
 
 ## 💼 My Projects
