@@ -9,11 +9,11 @@
 * 🖥️ I love Front-End, Full-Stack, Back-End, and Game Development
 *  Right now I am using an M1 macOS laptop
 * 🪟 But, I am very familiar with Windows
-<!-- 
+
 ## 💾 Tech Stack
 ### Languages/Frameworks
 ### Environments
-### Operating Systems -->
+### Operating Systems
 
 
 ## 📈 My Stats
