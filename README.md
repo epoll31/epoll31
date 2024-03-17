@@ -224,6 +224,7 @@
 </div>
 
 ## 📞 Reach Me
-* 📧 My Email is <a href="mailto:epollack31@gmail.com">epollack31@gmail.com</a>
-* 🖇️ My LinkedIn is <a href="https://linkedin.com/in/ethanpollack">https://linkedin.com/in/ethanpollack</a>
+* 📧 Email me @ <a href="mailto:epollack31@gmail.com">epollack31@gmail.com</a>
+* 👨‍🏫 Tutoring by me @ <a href="https://epoll31.github.io/tutor">epoll31.github.io/tutor</a>
+* 🖇️ Connect with me @ <a href="https://linkedin.com/in/ethanpollack">linkedin.com/in/ethanpollack</a>
 
