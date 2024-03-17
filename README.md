@@ -206,6 +206,9 @@
 
 <div align="center">
 <!-- #TODO Add zlib, idlesnake.monogame -->
+    <a href="https://github.com/epoll31/epoll31.github.io">
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=epoll31.github.io&theme=gruvbox>"/>
+    </a>
     <a href="https://github.com/epoll31/snake-unity">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=snake-unity&theme=gruvbox>"/>
     </a>
