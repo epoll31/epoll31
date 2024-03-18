@@ -207,22 +207,22 @@
 <div align="center">
 <!-- #TODO Add zlib, idlesnake.monogame -->
     <a href="https://github.com/epoll31/epoll31.github.io">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=epoll31.github.io&theme=gruvbox>"/>
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=epoll31.github.io&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/next.js-p5.js">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=next.js-p5.js&theme=gruvbox>"/>
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=next.js-p5.js&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/snake-unity">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=snake-unity&theme=gruvbox>"/>
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=snake-unity&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/nvim-config">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=nvim-config&theme=gruvbox>"/>
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=nvim-config&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/web-template">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=web-template&theme=gruvbox>"/>
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=web-template&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/ShaderTests">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=ShaderTests&theme=gruvbox>"/>
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=ShaderTests&theme=gruvbox"/>
     </a>
 </div>
 
