@@ -183,7 +183,7 @@
 ## 📈 My Stats
 <div align="center">
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=epoll31&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=epoll31&show_icons=true&theme=gruvbox&include_all_commits=true" />
   &nbsp;
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epoll31&layout=compact&theme=gruvbox" />
 
