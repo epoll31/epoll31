@@ -193,9 +193,10 @@
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=epoll31&theme=gruvbox"/>
+<br><br>
+    <img height=200 src="https://github-profile-trophy.vercel.app/?username=epoll31&theme=gruvbox"/>
 </div>
-<br>
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=epoll31&theme=gruvbox)](https://github.com/epoll31/github-profile-trophy) -->
 <!-- <div align="center"> -->
 <!--START_SECTION:activity-->
 
