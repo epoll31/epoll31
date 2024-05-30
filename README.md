@@ -18,6 +18,23 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px; ">
 
+<a href="https://react.dev/">
+<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+</a>
+
+<a href="https://nextjs.org/">
+<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<!-- <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" /> -->
+</a>
+
+<a href="https://www.javascript.com/">
+<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</a>
+   
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </a>
@@ -28,14 +45,6 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-</a>
-
-<a href="https://www.javascript.com/">
-<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
@@ -49,19 +58,29 @@
 <a href="https://www.rust-lang.com/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </a>
-       
+<!--
 <a href="https://www.lua.org/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 </a>
-
+-->
+<!--
 <a href="https://www.markdownguide.org/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 </a>
-
+-->
+<!--
 <a href="https://www.latex-project.org/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 </a>
-          
+-->      
+<a href="https://processing.org/">
+<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" />
+</a>
+
+<a href="https://p5js.org/">
+<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
+</a>
+
 </div>
 
 ### 🧰 Tools
@@ -100,31 +119,16 @@
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 </a>
 
-<a href="https://react.dev/">
-<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-</a>
-
-<a href="https://nextjs.org/">
-<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<!-- <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" /> -->
-</a>
-   
-<a href="https://processing.org/">
-<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" />
-</a>
-
-<a href="https://p5js.org/">
-<img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
-</a>
-
 <a href="https://neovim.io/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />
 </a>
-
+<!--
 <a href="https://www.jetbrains.com/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
 </a>
-          
+-->
+    
+<!--      
 <a href="https://www.jetbrains.com/idea/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </a>
@@ -140,7 +144,9 @@
 <a href="https://www.jetbrains.com/pycharm/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 </a>
-          
+
+-->
+
 <a href="https://www.mysql.com/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </a>
@@ -153,6 +159,7 @@
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 </a>
 
+<!--
 <a href="https://www.docker.com/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </a>
@@ -164,7 +171,7 @@
 <a href="https://brew.sh/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original-wordmark.svg" />
 </a>
-
+-->
 <a href="https://www.adobe.com/products/illustrator.html">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 </a>
@@ -173,10 +180,11 @@
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </a>
 
+<!--
 <a href="https://www.gimp.org/">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" />
 </a>
-
+-->
 </div>
 
 
