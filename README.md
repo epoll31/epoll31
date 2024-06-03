@@ -243,6 +243,6 @@
 
 ## 📞 Reach Me
 * 📧 Email me @ <a href="mailto:epollack31@gmail.com">epollack31@gmail.com</a>
-* 👨‍🏫 Tutoring by me @ <a href="https://epoll31.github.io/tutor">epoll31.github.io/tutor</a>
 * 🖇️ Connect with me @ <a href="https://linkedin.com/in/ethanpollack">linkedin.com/in/ethanpollack</a>
+* 𝕩 Follow me @ <a href="https://twitter.com/epoll31">twitter.com/epoll31</a>
 
