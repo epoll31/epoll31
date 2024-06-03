@@ -1,5 +1,5 @@
 
-[<img src="https://raw.githubusercontent.com/epoll31/epoll31/main/assets/title.gif" alt="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)" title="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)">](https://epoll31.github.io)
+[<img src="https://raw.githubusercontent.com/epoll31/epoll31/main/assets/title.gif" alt="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)" title="👋 Hi there! I'm Ethan Pollack|https://epoll31.com)">](https://epoll31.com)
 <!--![visitors](https://vbr.nathanchung.dev/badge?page_id=epoll31.epoll31&color=00cf00)-->
 
 <h2 align="top">
@@ -218,23 +218,20 @@
     <a href="https://github.com/ansub/syntaxui">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ansub&repo=syntaxui&theme=gruvbox"/>
     </a>
+    <a href="https://github.com/epoll31/portfolio">
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=portfolio&theme=gruvbox"/>
+    </a>
+    <a href="https://github.com/epoll31/create-esp-app">
+        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=create-esp-app&theme=gruvbox"/>
+    </a>
     <a href="https://github.com/epoll31/foli.at">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=foli.at&theme=gruvbox"/>
-    </a>
-    <a href="https://github.com/epoll31/epoll31.github.io">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=epoll31.github.io&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/next.js-p5.js">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=next.js-p5.js&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/snake-unity">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=snake-unity&theme=gruvbox"/>
-    </a>
-    <a href="https://github.com/epoll31/nvim-config">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=nvim-config&theme=gruvbox"/>
-    </a>
-    <a href="https://github.com/epoll31/web-template">
-        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=web-template&theme=gruvbox"/>
     </a>
     <a href="https://github.com/epoll31/ShaderTests">
         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=epoll31&repo=ShaderTests&theme=gruvbox"/>
