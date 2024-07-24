@@ -10,8 +10,7 @@
 * 💻 Software Developer and Designer
 * 🎓 Graduated from Worcester Polytechnic Institute with a B.S. in Computer Science in 2023
 * 🖥️ I love Front-End, Full-Stack, Back-End, and Game Development
-*  Right now I am using an M1 macOS laptop
-* 🪟 But, I am very familiar with Windows
+*  Right now, I am using an M1 macOS laptop
 
 ## 💾 Tech Stack
 ### 🗣️ Languages/Frameworks
