@@ -1,6 +1,5 @@
 
 [<img src="https://raw.githubusercontent.com/epoll31/epoll31/main/assets/title.gif" alt="👋 Hi there! I'm Ethan Pollack|https://epoll31.github.io)" title="👋 Hi there! I'm Ethan Pollack|https://epoll31.com)">](https://epoll31.com)
-<!--![visitors](https://vbr.nathanchung.dev/badge?page_id=epoll31.epoll31&color=00cf00)-->
 
 <h2 align="top">
 👨‍💻 About Me
