@@ -7,6 +7,7 @@
 </h2>
 
 * 💻 Software Developer and Designer
+<!-- * Working for TekSystems at Apple for the Apple Media Products team-->
 * 🎓 Graduated from Worcester Polytechnic Institute with a B.S. in Computer Science in 2023
 * 🖥️ I love Front-End, Full-Stack, Back-End, and Game Development
 *  Right now, I am using an M1 macOS laptop
